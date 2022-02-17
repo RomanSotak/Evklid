@@ -117,7 +117,7 @@ body {
 
 .hero-container {
     height: 500px;
-    background-image: url(../hero-background-first.jpg);
+    background-image: url('./hero-background-first.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -184,7 +184,7 @@ body {
 }
 
 .about-us-blocks {
-    background-image: url(../about-us-image.jpg);
+    background-image: url('./about-us-image.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -630,11 +630,11 @@ body {
 }
 
 .read-more-checker-faq~.read-more-button-faq:before {
-    content: url(../faq-icon.svg);
+    content: url('./faq-icon.svg');
 }
 
 .read-more-checker-faq:checked~.read-more-button-faq:before {
-    content: url(../faq-icon-close.svg);
+    content: url('./faq-icon-close.svg');
     position: relative;
     top: -225px !important;
 }
@@ -691,11 +691,11 @@ body {
 }
 
 .read-more-checker-faq-2~.read-more-button-faq-2:before {
-    content: url(/img/faq-icon.svg);
+    content: url('./faq-icon.svg');
 }
 
 .read-more-checker-faq-2:checked~.read-more-button-faq-2:before {
-    content: url(/img/faq-icon-close.svg);
+    content: url('./faq-icon-close.svg');
     position: relative;
     top: -215px;
 }
@@ -747,11 +747,11 @@ body {
 }
 
 .read-more-checker-faq-3~.read-more-button-faq-3:before {
-    content: url(/img/faq-icon.svg);
+    content: url('./faq-icon.svg');
 }
 
 .read-more-checker-faq-3:checked~.read-more-button-faq-3:before {
-    content: url(/img/faq-icon-close.svg);
+    content: url('./faq-icon-close.svg');
     position: relative;
     top: -215px;
 }
@@ -803,11 +803,11 @@ body {
 }
 
 .read-more-checker-faq-4~.read-more-button-faq-4:before {
-    content: url(/img/faq-icon.svg);
+    content: url('./faq-icon.svg');
 }
 
 .read-more-checker-faq-4:checked~.read-more-button-faq-4:before {
-    content: url(/img/faq-icon-close.svg);
+    content: url('./faq-icon-close.svg');
     position: relative;
     top: -215px;
 }
@@ -859,11 +859,11 @@ body {
 }
 
 .read-more-checker-faq-5~.read-more-button-faq-5:before {
-    content: url(/img/faq-icon.svg);
+    content: url('./faq-icon.svg');
 }
 
 .read-more-checker-faq-5:checked~.read-more-button-faq-5:before {
-    content: url(/img/faq-icon-close.svg);
+    content: url('./faq-icon-close.svg');
     position: relative;
     top: -215px;
 }
