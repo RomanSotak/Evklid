@@ -117,7 +117,7 @@ body {
 
 .hero-container {
     height: 500px;
-    background-image: url('./hero-background-first.jpg');
+    background-image: url(img/hero-background-first.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -184,7 +184,7 @@ body {
 }
 
 .about-us-blocks {
-    background-image: url('./about-us-image.jpg');
+    background-image: url('img/about-us-image.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
