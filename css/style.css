@@ -117,7 +117,7 @@ body {
 
 .hero-container {
     height: 500px;
-    background: url(/images/herobackgroundfirst.jpg);
+    background: url(/img/hero-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
